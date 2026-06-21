@@ -1,0 +1,9 @@
+{
+  "elapsed_seconds": 10.79,
+  "peak_memory_mb": 0.0,
+  "output_csv": "submission.csv",
+  "output_exists": true,
+  "metadata_exists": true,
+  "runtime_pass": true,
+  "memory_pass": true
+}

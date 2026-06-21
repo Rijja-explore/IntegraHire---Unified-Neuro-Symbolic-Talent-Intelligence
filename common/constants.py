@@ -1,2 +1,5 @@
-LOG_FORMAT = "%(asctime)s %(levelname)s %(message)s"
-DEFAULT_TOP_K = 10
+"""Compatibility shim — canonical constants live in ``src.common.constants``."""
+
+from src.common.constants import DEFAULT_TOP_K, FINAL_SUBMISSION_ROWS, LOG_FORMAT
+
+__all__ = ["LOG_FORMAT", "DEFAULT_TOP_K", "FINAL_SUBMISSION_ROWS"]

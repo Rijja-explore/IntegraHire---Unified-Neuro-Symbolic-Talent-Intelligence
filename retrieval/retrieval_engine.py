@@ -121,7 +121,10 @@ class RetrievalEngine:
                     continue
 
                 try:
-                    raw_candidate = CandidateRawData(**json.loads(line))
+                    parsed = json.loads(line)
+                    from src.common.normalizer import normalize_candidate_record
+
+                    raw_candidate = CandidateRawData(**normalize_candidate_record(parsed))
                     candidate = self.preprocessor.preprocess_candidate(raw_candidate)
                 except Exception as e:
                     parse_errors += 1
@@ -247,16 +250,21 @@ class RetrievalEngine:
         # Filter by minimum score and limit to top_k
         filtered_results = [r for r in fused_results if r["fused_score"] >= request.min_score][: request.top_k]
 
+        max_bm25 = max((r.get("bm25_score") or 0.0 for r in filtered_results), default=1.0) or 1.0
+        max_fused = max((r.get("fused_score") or 0.0 for r in filtered_results), default=1.0) or 1.0
+
         # Convert to RetrievalResult objects
         retrieval_results = []
         for result in filtered_results:
+            bm25_raw = result["bm25_score"] or 0.0
+            fused_raw = result["fused_score"] or 0.0
             retrieval_result = RetrievalResult(
                 candidate_id=result["candidate_id"],
-                bm25_score=result["bm25_score"] or 0.0,
+                bm25_score=min(1.0, bm25_raw / max_bm25),
                 bm25_rank=result["bm25_rank"] or 9999,
-                embedding_score=result["embedding_similarity"] or 0.0,
+                embedding_score=min(1.0, max(0.0, result["embedding_similarity"] or 0.0)),
                 embedding_rank=result["embedding_rank"] or 9999,
-                semantic_score=result["fused_score"],
+                semantic_score=min(1.0, fused_raw / max_fused),
                 retrieval_rank=result["final_rank"],
             )
             retrieval_results.append(retrieval_result)
@@ -343,8 +351,10 @@ class RetrievalEngine:
             candidates_jsonl_path: Path to candidates JSONL for reference
         """
         # Load candidates and preprocess
+        from src.common.normalizer import normalize_candidate_record
+
         raw_data = load_jsonl(candidates_jsonl_path)
-        raw_candidates = [CandidateRawData(**item) for item in raw_data]
+        raw_candidates = [CandidateRawData(**normalize_candidate_record(item)) for item in raw_data]
         self.candidates = self.preprocessor.batch_preprocess(raw_candidates)
 
         # Load embeddings

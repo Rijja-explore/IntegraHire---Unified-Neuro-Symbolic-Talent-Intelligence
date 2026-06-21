@@ -1,106 +1,64 @@
-"""Pydantic schemas for candidate profiles and scores."""
-from pydantic import BaseModel, Field
-from typing import List, Optional, Dict, Any
-from datetime import datetime
+"""
+Compatibility shim for intelligence/ranking schemas.
 
-class Skill(BaseModel):
-    name: str
-    proficiency: str  # beginner, intermediate, advanced, expert
-    endorsements: int = 0
-    duration_months: int = 0
+Canonical base models live in ``src.common.schemas``. Ranking-specific
+containers (``CandidateProfile``, ``CandidateScores``) remain here because
+they use the legacy ``redrob_signals`` field name and 0-100 score scales.
+"""
 
-class Experience(BaseModel):
-    company: str
-    title: str
-    start_date: str
-    end_date: Optional[str] = None
-    duration_months: int
-    is_current: bool
-    industry: str
-    company_size: str
-    description: str
+from typing import Dict, List, Optional
 
-class Education(BaseModel):
-    institution: str
-    degree: str
-    field_of_study: str
-    start_year: int
-    end_year: int
-    grade: Optional[str] = None
-    tier: str  # tier_1, tier_2, tier_3, tier_4, tier_5
+from pydantic import Field, model_validator
 
-class Certification(BaseModel):
-    name: str
-    issuer: str
-    year: int
+from src.common.schemas import (
+    BaseModelWithConfig,
+    BehavioralSignals,
+    CandidateBasicProfile,
+    CandidateDNA,
+    Certification,
+    Education,
+    Experience,
+    Language,
+    RankedCandidate,
+    Skill,
+)
 
-class Language(BaseModel):
-    language: str
-    proficiency: str
+Profile = CandidateBasicProfile
 
-class BehavioralSignals(BaseModel):
-    profile_completeness_score: float
-    signup_date: str
-    last_active_date: str
-    open_to_work_flag: bool
-    profile_views_received_30d: int
-    applications_submitted_30d: int
-    recruiter_response_rate: float
-    avg_response_time_hours: float
-    skill_assessment_scores: Dict[str, float]
-    connection_count: int
-    endorsements_received: int
-    notice_period_days: int
-    expected_salary_range_inr_lpa: Optional[Dict[str, float]]
-    preferred_work_mode: str
-    willing_to_relocate: bool
-    github_activity_score: float
-    search_appearance_30d: int
-    saved_by_recruiters_30d: int
-    interview_completion_rate: float
-    offer_acceptance_rate: float
-    verified_email: bool
-    verified_phone: bool
-    linkedin_connected: bool
 
-class Profile(BaseModel):
-    anonymized_name: str
-    headline: str
-    summary: str
-    location: str
-    country: str
-    years_of_experience: float
-    current_title: str
-    current_company: str
-    current_company_size: str
-    current_industry: str
+class CandidateProfile(BaseModelWithConfig):
+    """Complete candidate profile for intelligence engines."""
 
-class CandidateProfile(BaseModel):
-    """Complete candidate profile."""
     candidate_id: str
     profile: Profile
     career_history: List[Experience]
-    education: List[Education]
-    skills: List[Skill]
-    certifications: List[Certification]
-    languages: List[Language]
-    redrob_signals: BehavioralSignals
+    education: List[Education] = Field(default_factory=list)
+    skills: List[Skill] = Field(default_factory=list)
+    certifications: List[Certification] = Field(default_factory=list)
+    languages: List[Language] = Field(default_factory=list)
+    behavioral_signals: BehavioralSignals = Field(..., alias="redrob_signals")
 
-class CandidateDNA(BaseModel):
-    """Candidate DNA dimensions (0-100 scale)."""
-    technical_depth: float
-    production_readiness: float
-    research_orientation: float
-    startup_fit: float
-    career_stability: float
-    behavior_reliability: float
-    authenticity: float
-    learning_velocity: float
+    model_config = {"protected_namespaces": (), "populate_by_name": True}
 
-class CandidateScores(BaseModel):
-    """All scoring dimensions for a candidate."""
+    @property
+    def redrob_signals(self) -> BehavioralSignals:
+        """Legacy alias for behavioral signals."""
+        return self.behavioral_signals
+
+    @model_validator(mode="before")
+    @classmethod
+    def _normalize_signal_field(cls, data):
+        if isinstance(data, dict) and "redrob_signals" in data and "behavioral_signals" not in data:
+            data = dict(data)
+            data["behavioral_signals"] = data.pop("redrob_signals")
+        return data
+
+
+class CandidateScores(BaseModelWithConfig):
+    """All scoring dimensions for a candidate (intelligence engine output)."""
+
     candidate_id: str
-    semantic_score: float  # Input from retrieval
+    semantic_score: float
     authenticity_score: float
     anomaly_score: float
     trajectory_score: float
@@ -111,23 +69,26 @@ class CandidateScores(BaseModel):
     final_score: float
     dna: CandidateDNA
 
-class RankedCandidate(BaseModel):
-    """Final ranked candidate for output."""
-    candidate_id: str
-    rank: int
-    semantic_score: float
-    authenticity_score: float
-    trajectory_score: float
-    production_score: float
-    behavior_score: float
-    dna_score: float
-    final_score: float
-    dna_dimensions: CandidateDNA
-    top_strengths: List[str] = Field(default_factory=list)
-    top_weaknesses: List[str] = Field(default_factory=list)
 
-class FeatureVector(BaseModel):
+class FeatureVector(BaseModelWithConfig):
     """Feature vector for a candidate."""
+
     candidate_id: str
-    features: List[float]  # Flattened feature vector
+    features: List[float]
     feature_names: List[str]
+
+
+__all__ = [
+    "Skill",
+    "Experience",
+    "Education",
+    "Certification",
+    "Language",
+    "BehavioralSignals",
+    "Profile",
+    "CandidateProfile",
+    "CandidateDNA",
+    "CandidateScores",
+    "RankedCandidate",
+    "FeatureVector",
+]

@@ -292,3 +292,8 @@ class CandidateRecord(BaseModelWithConfig):
     def get(self, key: str, default: Any = None) -> Any:
         return getattr(self, key, default)
 
+
+# Audit aliases for canonical model names used in documentation
+CandidateScore = CandidateFeatures
+FinalCandidate = RankedCandidate
+

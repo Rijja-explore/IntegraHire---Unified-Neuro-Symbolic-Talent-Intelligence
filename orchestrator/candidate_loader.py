@@ -16,6 +16,7 @@ from ranking.schemas import (
     Profile,
     Skill,
 )
+from src.common.normalizer import normalize_candidate_record
 
 logger = logging.getLogger(__name__)
 
@@ -54,6 +55,7 @@ def _build_behavioral_signals(raw: dict) -> BehavioralSignals:
 
 def raw_dict_to_profile(raw: dict) -> CandidateProfile:
     """Convert a parsed JSONL object into a ranking CandidateProfile."""
+    raw = normalize_candidate_record(raw)
     profile_data = raw["profile"]
     return CandidateProfile(
         candidate_id=raw["candidate_id"],

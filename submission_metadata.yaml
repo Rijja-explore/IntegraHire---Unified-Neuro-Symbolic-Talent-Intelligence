@@ -1,0 +1,44 @@
+team_name: "IntegraHire"
+
+primary_contact:
+  name: "IntegraHire Team"
+  email: "team@example.com"
+  phone: "+91-0000000000"
+
+team_members:
+  - name: "IntegraHire Team"
+    email: "team@example.com"
+    role: "Engineering"
+
+github_repo: "https://github.com/example/IntegraHire---Unified-Neuro-Symbolic-Talent-Intelligence"
+sandbox_link: "https://streamlit.io/"
+reproduce_command: "python rank.py --candidates data/candidates.jsonl --job_description data/job_description.txt --output submission.csv"
+
+compute:
+  platform: "CPU"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.12"
+  os: "Windows"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: true
+  pre_computation_time_minutes: 5
+
+ai_tools_used:
+  - "GitHub Copilot"
+
+ai_usage_summary: |
+  Used Copilot for code structuring and documentation support.
+  No hosted LLM API is invoked during ranking execution.
+
+methodology_summary: |
+  IntegraHire combines hybrid retrieval (BM25 + FAISS + RRF), neuro-symbolic intelligence engines
+  (authenticity, trajectory, behavior, production), DNA profiling, score fusion, and deterministic export.
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: false
