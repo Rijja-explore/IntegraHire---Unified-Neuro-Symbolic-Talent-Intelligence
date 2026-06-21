@@ -1,0 +1,78 @@
+"""
+Common module: shared schemas, config, logging, and utilities.
+"""
+
+from .schemas import (
+    Skill,
+    Education,
+    Experience,
+    Certification,
+    Language,
+    CandidateBasicProfile,
+    BehavioralSignals,
+    CandidateRawData,
+    JobDescription,
+    PreprocessedCandidate,
+    RetrievalResult,
+    IndexMetadata,
+    CandidateDNA,
+    CandidateFeatures,
+    RankedCandidate,
+    CandidateRecord,
+)
+
+from .config import (
+    SystemConfig,
+    EmbeddingConfig,
+    BM25Config,
+    FAISSConfig,
+    RetrievalEngineConfig,
+    PreprocessingConfig,
+    IntelligenceWeights,
+    AuthenticityConfig,
+    TrajectoryWeights,
+    BehaviorWeights,
+    ProductionConfig,
+    DNAWeights,
+    LoggingConfig,
+    get_config,
+    set_config,
+    reset_config,
+)
+
+__all__ = [
+    # Schemas
+    "Skill",
+    "Education",
+    "Experience",
+    "Certification",
+    "Language",
+    "CandidateBasicProfile",
+    "BehavioralSignals",
+    "CandidateRawData",
+    "JobDescription",
+    "PreprocessedCandidate",
+    "RetrievalResult",
+    "IndexMetadata",
+    "CandidateDNA",
+    "CandidateFeatures",
+    "RankedCandidate",
+    "CandidateRecord",
+    # Config
+    "SystemConfig",
+    "EmbeddingConfig",
+    "BM25Config",
+    "FAISSConfig",
+    "RetrievalEngineConfig",
+    "PreprocessingConfig",
+    "IntelligenceWeights",
+    "AuthenticityConfig",
+    "TrajectoryWeights",
+    "BehaviorWeights",
+    "ProductionConfig",
+    "DNAWeights",
+    "LoggingConfig",
+    "get_config",
+    "set_config",
+    "reset_config",
+]

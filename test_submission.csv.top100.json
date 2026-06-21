@@ -1,0 +1,602 @@
+[
+  {
+    "candidate_id": "CAND_0000020",
+    "final_score": 1.0,
+    "confidence": 0.128,
+    "reasoning": "Current role: Senior Engineer JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000026",
+    "final_score": 1.0,
+    "confidence": 0.126,
+    "reasoning": "Current role: Data Scientist Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000039",
+    "final_score": 1.0,
+    "confidence": 0.124,
+    "reasoning": "Current role: ML Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000055",
+    "final_score": 1.0,
+    "confidence": 0.129,
+    "reasoning": "Current role: DevOps Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000080",
+    "final_score": 1.0,
+    "confidence": 0.124,
+    "reasoning": "Current role: Software Engineer JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000164",
+    "final_score": 1.0,
+    "confidence": 0.125,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000308",
+    "final_score": 1.0,
+    "confidence": 0.125,
+    "reasoning": "Current role: Data Scientist Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000334",
+    "final_score": 1.0,
+    "confidence": 0.122,
+    "reasoning": "Current role: ML Engineer JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000341",
+    "final_score": 1.0,
+    "confidence": 0.127,
+    "reasoning": "Current role: Senior Engineer JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000363",
+    "final_score": 1.0,
+    "confidence": 0.127,
+    "reasoning": "Current role: Backend Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000440",
+    "final_score": 1.0,
+    "confidence": 0.127,
+    "reasoning": "Current role: Staff Engineer JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000413",
+    "final_score": 0.9983,
+    "confidence": 0.129,
+    "reasoning": "Current role: Software Engineer JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000251",
+    "final_score": 0.9957,
+    "confidence": 0.136,
+    "reasoning": "Current role: Staff Engineer JD-relevant skills: Kubernetes, Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000179",
+    "final_score": 0.9953,
+    "confidence": 0.132,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Kubernetes, Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000113",
+    "final_score": 0.9951,
+    "confidence": 0.137,
+    "reasoning": "Current role: Software Engineer JD-relevant skills: Kubernetes, Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000123",
+    "final_score": 0.9933,
+    "confidence": 0.139,
+    "reasoning": "Current role: Product Manager Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000124",
+    "final_score": 0.9914,
+    "confidence": 0.14,
+    "reasoning": "Current role: Product Manager Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000253",
+    "final_score": 0.9911,
+    "confidence": 0.14,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000345",
+    "final_score": 0.9895,
+    "confidence": 0.143,
+    "reasoning": "Current role: Software Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000277",
+    "final_score": 0.9894,
+    "confidence": 0.142,
+    "reasoning": "Current role: Staff Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000331",
+    "final_score": 0.9882,
+    "confidence": 0.145,
+    "reasoning": "Current role: Backend Engineer JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000354",
+    "final_score": 0.9868,
+    "confidence": 0.149,
+    "reasoning": "Current role: Staff Engineer JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000437",
+    "final_score": 0.986,
+    "confidence": 0.15,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000423",
+    "final_score": 0.9835,
+    "confidence": 0.152,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000001",
+    "final_score": 0.9816,
+    "confidence": 0.155,
+    "reasoning": "Current role: Staff Engineer JD-relevant skills: Kubernetes, Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000081",
+    "final_score": 0.9805,
+    "confidence": 0.159,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000304",
+    "final_score": 0.979,
+    "confidence": 0.16,
+    "reasoning": "Current role: Senior Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000047",
+    "final_score": 0.9754,
+    "confidence": 0.165,
+    "reasoning": "Current role: Senior Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000172",
+    "final_score": 0.971,
+    "confidence": 0.174,
+    "reasoning": "Current role: Senior Engineer JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000205",
+    "final_score": 0.9688,
+    "confidence": 0.178,
+    "reasoning": "Current role: Staff Engineer JD-relevant skills: Python, Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000181",
+    "final_score": 0.9667,
+    "confidence": 0.178,
+    "reasoning": "Current role: DevOps Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000133",
+    "final_score": 0.9666,
+    "confidence": 0.182,
+    "reasoning": "Current role: ML Engineer JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000050",
+    "final_score": 0.9661,
+    "confidence": 0.184,
+    "reasoning": "Current role: Staff Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000447",
+    "final_score": 0.9628,
+    "confidence": 0.186,
+    "reasoning": "Current role: Staff Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000398",
+    "final_score": 0.9599,
+    "confidence": 0.192,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000289",
+    "final_score": 0.9594,
+    "confidence": 0.195,
+    "reasoning": "Current role: ML Engineer JD-relevant skills: Python, Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000056",
+    "final_score": 0.9592,
+    "confidence": 0.194,
+    "reasoning": "Current role: DevOps Engineer JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000212",
+    "final_score": 0.9553,
+    "confidence": 0.202,
+    "reasoning": "Current role: Staff Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000206",
+    "final_score": 0.954,
+    "confidence": 0.201,
+    "reasoning": "Current role: Data Scientist JD-relevant skills: Python, Python, Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000018",
+    "final_score": 0.9539,
+    "confidence": 0.199,
+    "reasoning": "Current role: Data Scientist JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000299",
+    "final_score": 0.9539,
+    "confidence": 0.204,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000151",
+    "final_score": 0.9509,
+    "confidence": 0.205,
+    "reasoning": "Current role: ML Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000242",
+    "final_score": 0.9491,
+    "confidence": 0.211,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000436",
+    "final_score": 0.9489,
+    "confidence": 0.21,
+    "reasoning": "Current role: DevOps Engineer JD-relevant skills: Python, Python, Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000093",
+    "final_score": 0.9481,
+    "confidence": 0.214,
+    "reasoning": "Current role: Software Engineer JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000399",
+    "final_score": 0.945,
+    "confidence": 0.215,
+    "reasoning": "Current role: Software Engineer JD-relevant skills: Python, Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000185",
+    "final_score": 0.9448,
+    "confidence": 0.217,
+    "reasoning": "Current role: Data Scientist JD-relevant skills: Kubernetes, Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000122",
+    "final_score": 0.9428,
+    "confidence": 0.221,
+    "reasoning": "Current role: Data Scientist JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000367",
+    "final_score": 0.9416,
+    "confidence": 0.224,
+    "reasoning": "Current role: Data Scientist Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000270",
+    "final_score": 0.9408,
+    "confidence": 0.223,
+    "reasoning": "Current role: Senior Engineer JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000279",
+    "final_score": 0.9378,
+    "confidence": 0.228,
+    "reasoning": "Current role: DevOps Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000395",
+    "final_score": 0.9374,
+    "confidence": 0.227,
+    "reasoning": "Current role: DevOps Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000284",
+    "final_score": 0.9372,
+    "confidence": 0.219,
+    "reasoning": "Current role: Backend Engineer JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000378",
+    "final_score": 0.9367,
+    "confidence": 0.23,
+    "reasoning": "Current role: Staff Engineer JD-relevant skills: Python, Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000201",
+    "final_score": 0.9361,
+    "confidence": 0.233,
+    "reasoning": "Current role: Staff Engineer JD-relevant skills: Python, Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000406",
+    "final_score": 0.9352,
+    "confidence": 0.225,
+    "reasoning": "Current role: Senior Engineer JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000213",
+    "final_score": 0.935,
+    "confidence": 0.235,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Python, Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000268",
+    "final_score": 0.9341,
+    "confidence": 0.231,
+    "reasoning": "Current role: Software Engineer JD-relevant skills: Python, Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000118",
+    "final_score": 0.934,
+    "confidence": 0.234,
+    "reasoning": "Current role: Product Manager Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000072",
+    "final_score": 0.933,
+    "confidence": 0.229,
+    "reasoning": "Current role: Data Scientist Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000477",
+    "final_score": 0.9313,
+    "confidence": 0.239,
+    "reasoning": "Current role: Senior Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000444",
+    "final_score": 0.9305,
+    "confidence": 0.241,
+    "reasoning": "Current role: Senior Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000319",
+    "final_score": 0.9302,
+    "confidence": 0.245,
+    "reasoning": "Current role: DevOps Engineer JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000449",
+    "final_score": 0.9301,
+    "confidence": 0.238,
+    "reasoning": "Current role: Data Scientist Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000376",
+    "final_score": 0.9253,
+    "confidence": 0.241,
+    "reasoning": "Current role: Staff Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000252",
+    "final_score": 0.9241,
+    "confidence": 0.247,
+    "reasoning": "Current role: ML Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000044",
+    "final_score": 0.9229,
+    "confidence": 0.252,
+    "reasoning": "Current role: DevOps Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000428",
+    "final_score": 0.9218,
+    "confidence": 0.256,
+    "reasoning": "Current role: Staff Engineer JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000226",
+    "final_score": 0.9209,
+    "confidence": 0.254,
+    "reasoning": "Current role: Data Scientist Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000485",
+    "final_score": 0.9207,
+    "confidence": 0.252,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000248",
+    "final_score": 0.9202,
+    "confidence": 0.256,
+    "reasoning": "Current role: ML Engineer JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000103",
+    "final_score": 0.9186,
+    "confidence": 0.257,
+    "reasoning": "Current role: ML Engineer JD-relevant skills: Python, Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000229",
+    "final_score": 0.9185,
+    "confidence": 0.251,
+    "reasoning": "Current role: Product Manager Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000169",
+    "final_score": 0.9182,
+    "confidence": 0.26,
+    "reasoning": "Current role: DevOps Engineer JD-relevant skills: Python, Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000457",
+    "final_score": 0.9182,
+    "confidence": 0.259,
+    "reasoning": "Current role: Senior Engineer JD-relevant skills: Kubernetes, Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000089",
+    "final_score": 0.9181,
+    "confidence": 0.257,
+    "reasoning": "Current role: Senior Engineer JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000051",
+    "final_score": 0.9172,
+    "confidence": 0.261,
+    "reasoning": "Current role: Data Scientist JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000269",
+    "final_score": 0.917,
+    "confidence": 0.261,
+    "reasoning": "Current role: ML Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000287",
+    "final_score": 0.9168,
+    "confidence": 0.261,
+    "reasoning": "Current role: DevOps Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000100",
+    "final_score": 0.9126,
+    "confidence": 0.27,
+    "reasoning": "Current role: ML Engineer JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000143",
+    "final_score": 0.9078,
+    "confidence": 0.277,
+    "reasoning": "Current role: Senior Engineer JD-relevant skills: Python, Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000088",
+    "final_score": 0.9072,
+    "confidence": 0.279,
+    "reasoning": "Current role: Software Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000349",
+    "final_score": 0.9066,
+    "confidence": 0.276,
+    "reasoning": "Current role: ML Engineer JD-relevant skills: Python, Python, Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000060",
+    "final_score": 0.9059,
+    "confidence": 0.281,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Kubernetes, Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000390",
+    "final_score": 0.9053,
+    "confidence": 0.28,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Python, Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000458",
+    "final_score": 0.9048,
+    "confidence": 0.284,
+    "reasoning": "Current role: Data Scientist JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000208",
+    "final_score": 0.9044,
+    "confidence": 0.282,
+    "reasoning": "Current role: Data Scientist JD-relevant skills: Kubernetes, Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000374",
+    "final_score": 0.904,
+    "confidence": 0.277,
+    "reasoning": "Current role: DevOps Engineer JD-relevant skills: Python, Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000421",
+    "final_score": 0.904,
+    "confidence": 0.277,
+    "reasoning": "Current role: Data Scientist JD-relevant skills: Python, Kubernetes, Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at State University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000083",
+    "final_score": 0.9035,
+    "confidence": 0.279,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Python, Python, Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity strong Limited alignment; significant ramp-up required. Educated at State University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000057",
+    "final_score": 0.9004,
+    "confidence": 0.291,
+    "reasoning": "Current role: Software Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000197",
+    "final_score": 0.9001,
+    "confidence": 0.287,
+    "reasoning": "Current role: Product Manager Skills do not explicitly match JD keywords Signals: production strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000241",
+    "final_score": 0.8984,
+    "confidence": 0.294,
+    "reasoning": "Current role: Staff Engineer JD-relevant skills: Python, Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000400",
+    "final_score": 0.8983,
+    "confidence": 0.294,
+    "reasoning": "Current role: Staff Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000070",
+    "final_score": 0.8941,
+    "confidence": 0.29,
+    "reasoning": "Current role: Software Engineer JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000370",
+    "final_score": 0.8926,
+    "confidence": 0.3,
+    "reasoning": "Current role: Senior Engineer JD-relevant skills: Python Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity strong Limited alignment; significant ramp-up required. Educated at State University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000180",
+    "final_score": 0.8921,
+    "confidence": 0.3,
+    "reasoning": "Current role: Senior Engineer JD-relevant skills: Python Signals: production very strong, recruiter engagement strong, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at MIT (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000450",
+    "final_score": 0.8906,
+    "confidence": 0.298,
+    "reasoning": "Current role: DevOps Engineer Skills do not explicitly match JD keywords Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity strong Limited alignment; significant ramp-up required. Educated at UC Berkeley (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000357",
+    "final_score": 0.89,
+    "confidence": 0.307,
+    "reasoning": "Current role: Backend Engineer JD-relevant skills: Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000377",
+    "final_score": 0.8884,
+    "confidence": 0.308,
+    "reasoning": "Current role: Product Manager JD-relevant skills: Python, Python, Kubernetes Signals: production very strong, recruiter engagement very strong, trajectory very strong, authenticity strong Limited alignment; significant ramp-up required. Educated at Stanford (tier 2)."
+  }
+]

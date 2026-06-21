@@ -1,0 +1,602 @@
+[
+  {
+    "candidate_id": "CAND_0000112",
+    "final_score": 0.49337619900588725,
+    "confidence": 0.494,
+    "reasoning": "3.8y experience, current: AI Specialist at Zomato (5001-10000) JD-relevant skills: Milvus Signals: production limited, recruiter engagement moderate, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Madras (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000082",
+    "final_score": 0.48379240258771944,
+    "confidence": 0.615,
+    "reasoning": "7.4y experience, current: Data Analyst at Wipro (10001+) JD-relevant skills: Pinecone, Embeddings, LLMs, FAISS Signals: production moderate, recruiter engagement moderate, trajectory moderate, authenticity strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000134",
+    "final_score": 0.46925255323792037,
+    "confidence": 0.361,
+    "reasoning": "8.6y experience, current: Full Stack Developer at Hooli (1001-5000) JD-relevant skills: Weaviate Signals: production limited, recruiter engagement weak, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000046",
+    "final_score": 0.4638987013579486,
+    "confidence": 0.19,
+    "reasoning": "7.8y experience, current: Mechanical Engineer at Hooli (1001-5000) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000038",
+    "final_score": 0.46229635594001567,
+    "confidence": 0.562,
+    "reasoning": "6.7y experience, current: Java Developer at Swiggy (5001-10000) JD-relevant skills: Weaviate Signals: production limited, recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000010",
+    "final_score": 0.4622689619108513,
+    "confidence": 0.557,
+    "reasoning": "4.6y experience, current: Data Engineer at Ola (5001-10000) JD-relevant skills: Elasticsearch, Python, BM25 Signals: production limited, recruiter engagement moderate, trajectory very strong, authenticity strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000031",
+    "final_score": 0.4571529909427414,
+    "confidence": 0.654,
+    "reasoning": "6.0y experience, current: Recommendation Systems Engineer at Swiggy (5001-10000) JD-relevant skills: FAISS, Pinecone, Embeddings, Marketing Signals: production moderate, recruiter engagement moderate, trajectory moderate, authenticity moderate Limited alignment; significant ramp-up required. Educated at SRM University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000098",
+    "final_score": 0.4555361321480372,
+    "confidence": 0.267,
+    "reasoning": "1.7y experience, current: Business Analyst at Infosys (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Anna University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000024",
+    "final_score": 0.4540230018939394,
+    "confidence": 0.217,
+    "reasoning": "7.5y experience, current: HR Manager at TCS (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000062",
+    "final_score": 0.44416603253633496,
+    "confidence": 0.349,
+    "reasoning": "4.3y experience, current: DevOps Engineer at Tech Mahindra (10001+) JD-relevant skills: NLP Signals: production weak, recruiter engagement moderate, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000068",
+    "final_score": 0.443895103021978,
+    "confidence": 0.44,
+    "reasoning": "1.5y experience, current: Java Developer at HCL (10001+) JD-relevant skills: FAISS Signals: production weak, recruiter engagement moderate, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000011",
+    "final_score": 0.44221869181823925,
+    "confidence": 0.241,
+    "reasoning": "2.0y experience, current: QA Engineer at Pied Piper (11-50) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Anna University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000013",
+    "final_score": 0.4419071639482538,
+    "confidence": 0.291,
+    "reasoning": "1.1y experience, current: Civil Engineer at Globex Inc (501-1000) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Delhi College of Engineering (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000001",
+    "final_score": 0.4412678857171546,
+    "confidence": 0.635,
+    "reasoning": "6.9y experience, current: Backend Engineer at Mindtree (10001+) JD-relevant skills: NLP, LoRA, Milvus Signals: production limited, recruiter engagement moderate, trajectory moderate, authenticity strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000113",
+    "final_score": 0.44102886689664694,
+    "confidence": 0.29,
+    "reasoning": "1.8y experience, current: .NET Developer at HCL (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000015",
+    "final_score": 0.43902366360386025,
+    "confidence": 0.565,
+    "reasoning": "5.4y experience, current: Software Engineer at Razorpay (1001-5000) JD-relevant skills: Qdrant Signals: production limited, recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000027",
+    "final_score": 0.43690608457685015,
+    "confidence": 0.321,
+    "reasoning": "3.9y experience, current: DevOps Engineer at Infosys (10001+) JD-relevant skills: PEFT, Marketing Signals: production weak, recruiter engagement moderate, trajectory very strong, authenticity strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000071",
+    "final_score": 0.43588965096828763,
+    "confidence": 0.524,
+    "reasoning": "1.8y experience, current: DevOps Engineer at Wayne Enterprises (10001+) JD-relevant skills: Qdrant, Python, Marketing Signals: production limited, recruiter engagement limited, trajectory very strong, authenticity strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000141",
+    "final_score": 0.4340595846861472,
+    "confidence": 0.327,
+    "reasoning": "1.5y experience, current: Accountant at Globex Inc (501-1000) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000022",
+    "final_score": 0.43218324905373756,
+    "confidence": 0.301,
+    "reasoning": "1.1y experience, current: Mechanical Engineer at Hooli (1001-5000) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at VJTI Mumbai (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000047",
+    "final_score": 0.42955659267288615,
+    "confidence": 0.304,
+    "reasoning": "2.4y experience, current: Project Manager at TCS (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000023",
+    "final_score": 0.4247361927260957,
+    "confidence": 0.354,
+    "reasoning": "3.7y experience, current: Software Engineer at Acme Corp (201-500) JD-relevant skills: Marketing Signals: recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required. Educated at VJTI Mumbai (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000131",
+    "final_score": 0.4238307423826174,
+    "confidence": 0.552,
+    "reasoning": "4.8y experience, current: Data Analyst at upGrad (1001-5000) JD-relevant skills: RAG Signals: production weak, recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000066",
+    "final_score": 0.42207455685526896,
+    "confidence": 0.359,
+    "reasoning": "2.4y experience, current: Content Writer at Hooli (1001-5000) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000025",
+    "final_score": 0.4219800525872636,
+    "confidence": 0.38,
+    "reasoning": "7.3y experience, current: Frontend Engineer at Tech Mahindra (10001+) JD-relevant skills: LangChain Signals: production weak, recruiter engagement moderate, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000123",
+    "final_score": 0.4198705766924307,
+    "confidence": 0.353,
+    "reasoning": "10.0y experience, current: Marketing Manager at Wipro (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000052",
+    "final_score": 0.4192602655380334,
+    "confidence": 0.309,
+    "reasoning": "1.4y experience, current: Mechanical Engineer at Dunder Mifflin (201-500) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000079",
+    "final_score": 0.4168769814311595,
+    "confidence": 0.352,
+    "reasoning": "13.2y experience, current: Customer Support at Wayne Enterprises (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Jadavpur University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000040",
+    "final_score": 0.4144135205544572,
+    "confidence": 0.31,
+    "reasoning": "1.6y experience, current: Customer Support at Globex Inc (501-1000) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000109",
+    "final_score": 0.4132648667405704,
+    "confidence": 0.377,
+    "reasoning": "2.2y experience, current: Mechanical Engineer at Globex Inc (501-1000) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000142",
+    "final_score": 0.4122441826058782,
+    "confidence": 0.401,
+    "reasoning": "5.1y experience, current: Mobile Developer at Mphasis (10001+) JD-relevant skills: OpenSearch Signals: production weak, recruiter engagement limited, trajectory strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000101",
+    "final_score": 0.4119841800322932,
+    "confidence": 0.38,
+    "reasoning": "7.0y experience, current: Customer Support at Globex Inc (501-1000) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required. Educated at IIT Madras (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000087",
+    "final_score": 0.4084237437042124,
+    "confidence": 0.384,
+    "reasoning": "2.5y experience, current: Full Stack Developer at Mindtree (10001+) JD-relevant skills: Marketing Signals: recruiter engagement limited, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000111",
+    "final_score": 0.40478984562609877,
+    "confidence": 0.176,
+    "reasoning": "2.5y experience, current: Graphic Designer at Initech (51-200) Skills do not explicitly match JD keywords Signals: recruiter engagement weak, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000090",
+    "final_score": 0.4041432566210695,
+    "confidence": 0.389,
+    "reasoning": "1.7y experience, current: QA Engineer at Dunder Mifflin (201-500) Skills do not explicitly match JD keywords Signals: production weak, recruiter engagement limited, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000003",
+    "final_score": 0.4013675532862945,
+    "confidence": 0.358,
+    "reasoning": "1.1y experience, current: Customer Support at TCS (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000067",
+    "final_score": 0.4008487093828456,
+    "confidence": 0.428,
+    "reasoning": "3.9y experience, current: Frontend Engineer at Accenture (10001+) Skills do not explicitly match JD keywords Signals: production weak, recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required. Educated at SRM University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000108",
+    "final_score": 0.40044324621154265,
+    "confidence": 0.435,
+    "reasoning": "3.6y experience, current: Full Stack Developer at Zomato (5001-10000) JD-relevant skills: Marketing Signals: recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000018",
+    "final_score": 0.39834625394805345,
+    "confidence": 0.326,
+    "reasoning": "6.6y experience, current: Frontend Engineer at Acme Corp (201-500) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000026",
+    "final_score": 0.3938198450751348,
+    "confidence": 0.293,
+    "reasoning": "6.8y experience, current: Graphic Designer at Initech (51-200) Skills do not explicitly match JD keywords Signals: recruiter engagement weak, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000043",
+    "final_score": 0.39370470394513063,
+    "confidence": 0.606,
+    "reasoning": "8.3y experience, current: Cloud Engineer at Swiggy (5001-10000) JD-relevant skills: Elasticsearch, OpenSearch, PEFT, LangChain Signals: production weak, recruiter engagement limited, trajectory moderate, authenticity strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000063",
+    "final_score": 0.3930311905746352,
+    "confidence": 0.415,
+    "reasoning": "5.4y experience, current: Java Developer at Mphasis (10001+) JD-relevant skills: PEFT Signals: recruiter engagement moderate, trajectory limited, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000035",
+    "final_score": 0.39253490618040915,
+    "confidence": 0.422,
+    "reasoning": "4.3y experience, current: Full Stack Developer at Globex Inc (501-1000) Skills do not explicitly match JD keywords Signals: production weak, recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000150",
+    "final_score": 0.39053193565018335,
+    "confidence": 0.398,
+    "reasoning": "5.4y experience, current: Content Writer at Wipro (10001+) JD-relevant skills: Marketing Signals: recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000089",
+    "final_score": 0.3893744381021975,
+    "confidence": 0.3,
+    "reasoning": "1.1y experience, current: Mechanical Engineer at Initech (51-200) Skills do not explicitly match JD keywords Signals: recruiter engagement weak, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000143",
+    "final_score": 0.3892709024011702,
+    "confidence": 0.453,
+    "reasoning": "7.7y experience, current: Graphic Designer at Pied Piper (11-50) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000075",
+    "final_score": 0.3888747656685729,
+    "confidence": 0.503,
+    "reasoning": "5.2y experience, current: Full Stack Developer at Wayne Enterprises (10001+) Skills do not explicitly match JD keywords Signals: production weak, recruiter engagement moderate, trajectory moderate, authenticity strong Limited alignment; significant ramp-up required. Educated at COEP Pune (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000086",
+    "final_score": 0.38679424570459714,
+    "confidence": 0.456,
+    "reasoning": "4.9y experience, current: Mechanical Engineer at TCS (10001+) Skills do not explicitly match JD keywords Signals: production weak, recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000096",
+    "final_score": 0.3865607586163836,
+    "confidence": 0.473,
+    "reasoning": "3.2y experience, current: QA Engineer at Pied Piper (11-50) JD-relevant skills: LoRA Signals: production weak, recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required. Educated at Thapar University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000039",
+    "final_score": 0.3865412884993235,
+    "confidence": 0.428,
+    "reasoning": "3.9y experience, current: Marketing Manager at Acme Corp (201-500) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000009",
+    "final_score": 0.38621851220006986,
+    "confidence": 0.438,
+    "reasoning": "11.0y experience, current: Mechanical Engineer at Dunder Mifflin (201-500) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000073",
+    "final_score": 0.38483500558730355,
+    "confidence": 0.424,
+    "reasoning": "12.1y experience, current: Project Manager at Stark Industries (1001-5000) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000104",
+    "final_score": 0.3825737168796581,
+    "confidence": 0.472,
+    "reasoning": "8.1y experience, current: Mobile Developer at Hooli (1001-5000) Skills do not explicitly match JD keywords Signals: production weak, recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required. Educated at Stanford University (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000122",
+    "final_score": 0.38135984581710697,
+    "confidence": 0.473,
+    "reasoning": "9.7y experience, current: Civil Engineer at Wipro (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000032",
+    "final_score": 0.38031570134268217,
+    "confidence": 0.514,
+    "reasoning": "8.1y experience, current: .NET Developer at Cognizant (10001+) JD-relevant skills: Embeddings, Python Signals: production weak, recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000055",
+    "final_score": 0.3798037655521291,
+    "confidence": 0.467,
+    "reasoning": "7.3y experience, current: Full Stack Developer at Razorpay (1001-5000) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000045",
+    "final_score": 0.37967183945699085,
+    "confidence": 0.507,
+    "reasoning": "12.2y experience, current: Project Manager at Initech (51-200) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory moderate, authenticity strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000042",
+    "final_score": 0.37874571154448616,
+    "confidence": 0.357,
+    "reasoning": "5.0y experience, current: HR Manager at Wayne Enterprises (10001+) JD-relevant skills: Marketing Signals: recruiter engagement weak, trajectory strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000028",
+    "final_score": 0.3777909791101704,
+    "confidence": 0.484,
+    "reasoning": "1.1y experience, current: Operations Manager at Wipro (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000007",
+    "final_score": 0.373674762448085,
+    "confidence": 0.438,
+    "reasoning": "5.5y experience, current: Civil Engineer at Wipro (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory limited, authenticity very strong Limited alignment; significant ramp-up required. Educated at SRM University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000034",
+    "final_score": 0.37323737835059395,
+    "confidence": 0.469,
+    "reasoning": "14.5y experience, current: Business Analyst at Wipro (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000103",
+    "final_score": 0.37297624056217804,
+    "confidence": 0.5,
+    "reasoning": "11.7y experience, current: Mechanical Engineer at Acme Corp (201-500) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required. Educated at COEP Pune (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000130",
+    "final_score": 0.3714979527277573,
+    "confidence": 0.507,
+    "reasoning": "8.6y experience, current: Cloud Engineer at Zomato (5001-10000) JD-relevant skills: LangChain Signals: production weak, recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000070",
+    "final_score": 0.3712795732699554,
+    "confidence": 0.465,
+    "reasoning": "4.2y experience, current: Business Analyst at Initech (51-200) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000138",
+    "final_score": 0.3705275544490352,
+    "confidence": 0.49,
+    "reasoning": "8.3y experience, current: Business Analyst at Wayne Enterprises (10001+) JD-relevant skills: Marketing Signals: recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000072",
+    "final_score": 0.3701474470355791,
+    "confidence": 0.521,
+    "reasoning": "7.0y experience, current: Frontend Engineer at Pied Piper (11-50) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory moderate, authenticity strong Limited alignment; significant ramp-up required. Educated at Anna University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000008",
+    "final_score": 0.37006895206662205,
+    "confidence": 0.342,
+    "reasoning": "3.6y experience, current: Operations Manager at Wipro (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement weak, trajectory very strong, authenticity very strong Limited alignment; significant ramp-up required. Educated at Anna University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000048",
+    "final_score": 0.3687550696338215,
+    "confidence": 0.508,
+    "reasoning": "9.7y experience, current: Mobile Developer at CRED (1001-5000) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory moderate, authenticity strong Limited alignment; significant ramp-up required. Educated at Anna University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000065",
+    "final_score": 0.36811674957648494,
+    "confidence": 0.468,
+    "reasoning": "9.7y experience, current: Project Manager at Initech (51-200) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000099",
+    "final_score": 0.36782960986487084,
+    "confidence": 0.537,
+    "reasoning": "2.6y experience, current: Full Stack Developer at Razorpay (1001-5000) JD-relevant skills: Marketing Signals: production weak, recruiter engagement moderate, trajectory moderate, authenticity strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000030",
+    "final_score": 0.3676762069465944,
+    "confidence": 0.391,
+    "reasoning": "10.0y experience, current: Marketing Manager at Dunder Mifflin (201-500) Skills do not explicitly match JD keywords Signals: recruiter engagement weak, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000060",
+    "final_score": 0.36744847197872843,
+    "confidence": 0.532,
+    "reasoning": "8.0y experience, current: Cloud Engineer at Razorpay (1001-5000) JD-relevant skills: LoRA, Marketing Signals: production weak, recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required. Educated at PES University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000148",
+    "final_score": 0.36606639093651183,
+    "confidence": 0.52,
+    "reasoning": "13.9y experience, current: Content Writer at TCS (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000091",
+    "final_score": 0.365817491657648,
+    "confidence": 0.474,
+    "reasoning": "3.6y experience, current: Frontend Engineer at Stark Industries (1001-5000) JD-relevant skills: Marketing, QLoRA Signals: recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000049",
+    "final_score": 0.3654173479504253,
+    "confidence": 0.492,
+    "reasoning": "11.8y experience, current: Mechanical Engineer at Wayne Enterprises (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000140",
+    "final_score": 0.36460111454663674,
+    "confidence": 0.397,
+    "reasoning": "8.1y experience, current: Civil Engineer at Infosys (10001+) Skills do not explicitly match JD keywords Signals: production weak, recruiter engagement weak, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000095",
+    "final_score": 0.3633446476420305,
+    "confidence": 0.466,
+    "reasoning": "6.7y experience, current: HR Manager at Acme Corp (201-500) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory limited, authenticity very strong Limited alignment; significant ramp-up required. Educated at Delhi College of Engineering (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000051",
+    "final_score": 0.36280724599304937,
+    "confidence": 0.459,
+    "reasoning": "6.2y experience, current: Cloud Engineer at HCL (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory limited, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000106",
+    "final_score": 0.36148131883279255,
+    "confidence": 0.394,
+    "reasoning": "6.6y experience, current: Marketing Manager at Globex Inc (501-1000) Skills do not explicitly match JD keywords Signals: recruiter engagement weak, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000019",
+    "final_score": 0.36147904924747043,
+    "confidence": 0.493,
+    "reasoning": "6.5y experience, current: Project Manager at Wayne Enterprises (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required. Educated at IISc Bangalore (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000137",
+    "final_score": 0.3605599668040293,
+    "confidence": 0.468,
+    "reasoning": "10.9y experience, current: Mechanical Engineer at Globex Inc (501-1000) JD-relevant skills: Marketing Signals: recruiter engagement limited, trajectory limited, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000116",
+    "final_score": 0.36032496383066165,
+    "confidence": 0.571,
+    "reasoning": "7.3y experience, current: Full Stack Developer at Tech Mahindra (10001+) JD-relevant skills: LoRA Signals: production weak, recruiter engagement moderate, trajectory moderate, authenticity strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000115",
+    "final_score": 0.35999430546625727,
+    "confidence": 0.361,
+    "reasoning": "7.8y experience, current: Operations Manager at Globex Inc (501-1000) Skills do not explicitly match JD keywords Signals: recruiter engagement weak, trajectory strong, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000139",
+    "final_score": 0.35924598697573906,
+    "confidence": 0.393,
+    "reasoning": "5.6y experience, current: Customer Support at TCS (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement weak, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000033",
+    "final_score": 0.3591484264107768,
+    "confidence": 0.535,
+    "reasoning": "8.6y experience, current: Graphic Designer at Wipro (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000064",
+    "final_score": 0.3582212228362682,
+    "confidence": 0.392,
+    "reasoning": "4.5y experience, current: Accountant at Acme Corp (201-500) JD-relevant skills: Marketing Signals: recruiter engagement weak, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required. Educated at Thapar University (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000044",
+    "final_score": 0.3578335629917492,
+    "confidence": 0.391,
+    "reasoning": "5.7y experience, current: Frontend Engineer at Tech Mahindra (10001+) JD-relevant skills: Python Signals: recruiter engagement weak, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000004",
+    "final_score": 0.35762604237488665,
+    "confidence": 0.528,
+    "reasoning": "3.8y experience, current: Marketing Manager at Dunder Mifflin (201-500) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000094",
+    "final_score": 0.3571715976787169,
+    "confidence": 0.487,
+    "reasoning": "2.6y experience, current: Graphic Designer at Pied Piper (11-50) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory limited, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000121",
+    "final_score": 0.35672284427284423,
+    "confidence": 0.64,
+    "reasoning": "3.7y experience, current: Customer Support at Wayne Enterprises (10001+) JD-relevant skills: Marketing, FAISS, RAG, Pinecone Signals: production weak, recruiter engagement moderate, trajectory limited, authenticity strong Limited alignment; significant ramp-up required. Educated at Delhi College of Engineering (tier 2)."
+  },
+  {
+    "candidate_id": "CAND_0000069",
+    "final_score": 0.35616369755244753,
+    "confidence": 0.565,
+    "reasoning": "13.0y experience, current: Business Analyst at Wayne Enterprises (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory moderate, authenticity strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000128",
+    "final_score": 0.35585211122480914,
+    "confidence": 0.55,
+    "reasoning": "8.5y experience, current: Mobile Developer at Razorpay (1001-5000) JD-relevant skills: LoRA, LLMs Signals: production weak, recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000061",
+    "final_score": 0.3557729754649069,
+    "confidence": 0.446,
+    "reasoning": "7.7y experience, current: DevOps Engineer at Pied Piper (11-50) Skills do not explicitly match JD keywords Signals: production weak, recruiter engagement weak, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000056",
+    "final_score": 0.3538854918874601,
+    "confidence": 0.434,
+    "reasoning": "1.3y experience, current: Frontend Engineer at TCS (10001+) JD-relevant skills: Embeddings Signals: production weak, recruiter engagement weak, trajectory very strong, authenticity strong Limited alignment; significant ramp-up required. Educated at IIT Bombay (tier 1)."
+  },
+  {
+    "candidate_id": "CAND_0000083",
+    "final_score": 0.35363322882066484,
+    "confidence": 0.654,
+    "reasoning": "6.7y experience, current: Graphic Designer at TCS (10001+) JD-relevant skills: Marketing, Pinecone, RAG, FAISS, LangChain Signals: production weak, recruiter engagement limited, trajectory moderate, authenticity moderate Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000058",
+    "final_score": 0.35175314782828093,
+    "confidence": 0.548,
+    "reasoning": "10.1y experience, current: HR Manager at Pied Piper (11-50) Skills do not explicitly match JD keywords Signals: recruiter engagement moderate, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000014",
+    "final_score": 0.35048245737359646,
+    "confidence": 0.694,
+    "reasoning": "8.4y experience, current: Frontend Engineer at Zomato (5001-10000) JD-relevant skills: FAISS, OpenSearch Signals: production weak, recruiter engagement moderate, trajectory limited, authenticity strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000135",
+    "final_score": 0.35047613421510354,
+    "confidence": 0.54,
+    "reasoning": "8.2y experience, current: Civil Engineer at Pied Piper (11-50) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000059",
+    "final_score": 0.3494629250389993,
+    "confidence": 0.558,
+    "reasoning": "1.5y experience, current: Frontend Engineer at TCS (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement limited, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  },
+  {
+    "candidate_id": "CAND_0000102",
+    "final_score": 0.3493080661404099,
+    "confidence": 0.447,
+    "reasoning": "3.7y experience, current: Operations Manager at Wipro (10001+) Skills do not explicitly match JD keywords Signals: recruiter engagement weak, trajectory moderate, authenticity very strong Limited alignment; significant ramp-up required."
+  }
+]
